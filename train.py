@@ -86,6 +86,7 @@ if __name__ == '__main__':
         multiprocessing.freeze_support()
 
     # Start Training
+    x = 0
     n_iter = 0
     print("Start!")
     print('Reconstruction weight: ', config['w']['recon'])

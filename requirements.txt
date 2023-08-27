@@ -1,2 +1,0 @@
-pip install --upgrade tensorflow
-pip install PyYAML Pillow tensorboardX torchvision tensorboard_logger
